@@ -1,0 +1,9 @@
+background(255);
+fill(209);
+ellipse(25,25,25,25);
+fill(209);
+ellipse(75,25,25,25);
+fill(209);
+ellipse(25,75,25,25);
+fill(209);
+ellipse(75,75,25,25);
